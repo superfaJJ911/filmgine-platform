@@ -9,6 +9,9 @@ ideas into visual content efficiently.
 ## 🌐 Official Website
 https://filmgine.com
 
+## 📊 GitHub Traffic (Tracking)
+https://filmgine.com/?utm_source=github&utm_medium=referral&utm_campaign=repo_filmgine_platform
+
 ## ✨ Key Features
 - AI story generation
 - Automatic storyboard creation
